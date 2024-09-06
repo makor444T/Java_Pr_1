@@ -26,7 +26,7 @@ public class Main {
             System.out.println("5 - Зробити замовлення");
             System.out.println("6 - Переглянути історію замовлень");
             System.out.println("7 - Пошук товарів");
-            System.out.println("0 - Вийти");
+            System.out.println("0 - Вийти!");
 
             int choice = scanner.nextInt();
             switch (choice) {
